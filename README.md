@@ -1,4 +1,4 @@
-# MyMobileTemplate
+# DeliveryTracker
 
 📱 React Native + Expo + TypeScript template  
 For local-first Android mobile apps with clean structure & env config
@@ -8,8 +8,8 @@ For local-first Android mobile apps with clean structure & env config
 ## ▶️ Getting Started
 
 ```bash
-git clone https://github.com/fathi-ch/MyMobileTemplate.git
-cd MyMobileTemplate
+git clone https://github.com/fathi-ch/DeliveryTracker.git
+cd DeliveryTracker
 npm install
 npx expo start
 ```
@@ -41,7 +41,7 @@ Environment selection is handled in:
 ## 🗂️ Project Structure
 
 ```txt
-MyMobileTemplate/
+DeliveryTracker/
 ├── src/
 │   ├── components/    # UI components
 │   ├── screens/       # App screens
@@ -74,7 +74,7 @@ eas build:configure
 eas build -p android --profile preview
 
 ## Rename the new project
-sed -i 's/MyMobileTemplate/{NewProject}/g' app.json README.md
+sed -i 's/DeliveryTracker/{NewProject}/g' app.json README.md
 
 ---
 
