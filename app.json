@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "MyMobileTemplate",
-    "slug": "MyMobileTemplate",
+    "name": "DeliveryTracker",
+    "slug": "DeliveryTracker",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -20,7 +20,7 @@
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
       },
-      "package": "com.chbnfathi.MyMobileTemplate"
+      "package": "com.chbnfathi.DeliveryTracker"
     },
     "web": {
       "favicon": "./assets/favicon.png"
